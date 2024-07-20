@@ -44,7 +44,7 @@
 - summary: |
     Проверка поля поиска при вводе названия товара с пробелом
   requirement: |
-    
+    no-data
   prerequisites:
     no-data
   test-data: |
